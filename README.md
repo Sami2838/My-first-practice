@@ -7,3 +7,6 @@ Plus, you'll learn how to work with the popular GitHub website to explore existi
 I am learning slowly.
 
 I will try to use fetch and pull command
+
+Trying a second push
+git
