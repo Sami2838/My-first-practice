@@ -13,3 +13,5 @@ git
 
 Trying to reconnect with Git
 git 
+
+checking SSH key
