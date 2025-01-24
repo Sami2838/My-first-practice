@@ -10,3 +10,6 @@ I will try to use fetch and pull command
 
 Trying a second push
 git
+
+Trying to reconnect with Git
+git 
